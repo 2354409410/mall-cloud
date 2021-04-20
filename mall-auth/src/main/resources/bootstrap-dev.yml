@@ -6,6 +6,8 @@ spring:
       config:
         server-addr: http://1.116.200.39:8848
         file-extension: yaml
+        namespace: 26cdfb6b-f687-44ab-9e48-48acad0982da
+        refresh-enabled: true
 
 
 

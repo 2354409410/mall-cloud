@@ -60,6 +60,12 @@
             <version>2.1.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.alibaba.boot</groupId>
+            <artifactId>nacos-config-spring-boot-starter</artifactId>
+            <version>0.2.1</version>
+        </dependency>
+
         <!--通用模块-->
         <dependency>
             <groupId>com.hujingli.micro</groupId>
